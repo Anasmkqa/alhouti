@@ -1,0 +1,9 @@
+#Alhouti
+about_alhout="xpath://div[@class='navmenu']//a[normalize-space()='ABOUT']"
+services_alhout="xpath://div[@class='navmenu']//a[normalize-space()='SERVICES']"
+resources_alhout="xpath://div[@class='navmenu']//a[normalize-space()='RESOURCES']"
+clients_alhout="xpath://div[@class='navmenu']//a[normalize-space()='CLIENTS']"
+careers_alhout="xpath://div[@class='navmenu']//a[normalize-space()='CAREERS']"
+contact_alhout="xpath://div[@class='navmenu']//a[normalize-space()='CONTACT']"
+projects_alhout="xpath://div[@class='navmenu']//a[normalize-space()='PROJECTS']"
+logoalhout="xpath://img[@src='/sites/all/themes/alhouti/images/logo_Al-Houti.png']"
